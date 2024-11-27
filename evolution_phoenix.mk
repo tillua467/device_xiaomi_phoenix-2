@@ -13,7 +13,7 @@ $(call inherit-product, device/xiaomi/phoenix/device.mk)
 $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
 # Evolution X Build Type & Maintainer stuff.
-EVO_BUILD_TYPE := Official
+EVO_BUILD_TYPE := Unofficial
 
 # Gapps Build Details.
 TARGET_USES_MINNI_GAPPS := true
